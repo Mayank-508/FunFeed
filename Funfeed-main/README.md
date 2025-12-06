@@ -1,4 +1,4 @@
-# Skyfeed - A Modern Social Media Platform
+# Funfeed - A Modern Social Media Platform
 
 A full-stack social media application built with React, Node.js, and MongoDB, featuring real-time interactions, image uploads, and a modern responsive UI.
 
@@ -271,7 +271,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - Create an issue in the repository
 
-
----
-
-**Skyfeed** - Connect, Share, Engage! 🚀
